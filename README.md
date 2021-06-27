@@ -1,1 +1,1 @@
-# Responsive foodblog page.
+# Responsive foodblog page using HTML & CSS
